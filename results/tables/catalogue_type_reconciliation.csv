@@ -1,0 +1,35 @@
+﻿VOR,Type,name,metadata_catalogue,basin,catchment_km2,total_catchment_km2,river_length_km,lake_area_km2,depth_m,artificial,modified,altitude_class,slope_class,substrate_class,geochemistry,typology_code,Latitude,Longitude,monitoring_sites,registered,observed,ID,catalogue_priority_type,weak_component
+ANS479,Lake,Alsómocsoládi-halastórendszer,Lake,1-12,16.0,79.0,,1.47,1.0,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,969,River,0
+ANS480,Lake,Attala–Inámi-halastórendszer,Lake,1-12,30.0,109.0,,1.74,1.0,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,970,River,0
+ANS481,Lake,Bácsbokodi–Felsőszentiváni-halastavak,Lake,2-20,50.0,114.0,,0.66,1.5,0.0,1.0,síkvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,971,River,4
+ANS489,Lake,Buzsáki-halastavak,Lake,4-2,11.0,176.0,,1.23,1.36,0.0,1.0,dombvidéki,Not applicable,Not applicable,szerves,8,,,,True,False,978,River,0
+ANS490,Lake,Cikolai-tavak,Lake,1-9,73.0,221.0,,0.91,1.3,0.0,1.0,síkvidéki,Not applicable,Not applicable,meszes,8,47.109422,18.77855,1.0,True,True,979,River,0
+ANS491,Lake,Császár-éri-halastavak,Lake,1-5,11.0,31.0,,0.54,1.3,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,980,River,0
+ANS494,Lake,Csokonyavisontai-halastórendszer,Lake,3-2,35.0,35.0,,0.68,1.1,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,983,River,2
+ANS497,Lake,Deseda-tározó,Lake,1-12,34.0,166.0,,2.46,3.3,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,5,,,,True,False,986,River,0
+ANS498,Lake,Értényi-halastavak,Lake,1-12,10.0,26.0,,0.68,1.7,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,46.66154,18.111149,1.0,True,True,987,River,0
+ANS500,Lake,Fehérvárcsurgói-tározó,Lake,1-13,18.0,266.0,,1.44,3.8,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,5,47.285198,18.255922,1.0,True,True,989,River,0
+ANS501,Lake,Gálosfai-horgásztavak,Lake,1-12,8.0,32.0,,0.56,0.88,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,5,,,,True,False,990,River,0
+ANS506,Lake,Hársasberki-halastó,Lake,1-12,31.0,111.0,,2.42,2.8,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,994,River,0
+ANS511,Lake,Iregszemcse–Nagykónyi-tározók,Lake,1-12,41.0,70.0,,1.21,1.2,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,46.603008,18.194271,1.0,True,True,998,River,0
+ANS514,Lake,Kiskondai-halastavak,Lake,1-12,70.0,70.0,,2.57,0.8,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,46.429011,18.140645,1.0,True,True,1001,River,0
+ANS515,Lake,Kistormási-halastavak,Lake,1-11,36.0,110.0,,0.64,1.0,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1002,River,0
+ANS516,Lake,Komra-völgyi-tározó,Lake,1-8,6.0,6.0,,0.45,9.0,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,7,,,,True,False,1003,River,0
+ANS517,Lake,Korcsánypusztai-halastavak,Lake,3-3,11.0,11.0,,0.56,2.5,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1004,River,2
+ANS519,Lake,Köszörű-völgyi-víztározó,Lake,2-11,6.0,6.0,,0.04,7.3,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,7,,,,True,False,1006,River,1
+ANS522,Lake,Ladomány II. és III. számú halastó,Lake,1-11,12.0,82.0,,1.05,2.0,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,46.313631,18.580026,1.0,True,True,1009,River,0
+ANS526,Lake,Lovászhetényi 1-2-3-4-5-11 számú halastavak,Lake,1-15,35.0,73.0,,0.64,0.98,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1013,River,3
+ANS531,Lake,Mesztegnyői-halastórendszer,Lake,4-2,20.0,41.0,,0.63,1.35,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1018,River,0
+ANS533,Lake,Mikei-halastórendszer,Lake,3-2,33.0,67.0,,0.71,0.85,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1020,River,2
+ANS537,Lake,Nagyigmándi-halastavak,Lake,1-5,4.0,116.0,,0.62,1.1,0.0,1.0,síkvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1024,River,0
+ANS538,Lake,Nagykarácsonyi-halastó,Lake,1-11,12.0,182.0,,1.1,1.0,0.0,1.0,síkvidéki,Not applicable,Not applicable,meszes,8,46.829544,18.907819,1.0,True,True,1025,River,0
+ANS540,Lake,Naszály–Grébicsi-halastavak,Lake,1-6,39.0,58.0,,1.05,1.2,0.0,1.0,síkvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1027,River,0
+ANS543,Lake,Palkonyai-halastavak,Lake,1-15,12.0,61.0,,0.92,1.4,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1029,River,3
+ANS546,Lake,Pátkai-tározó,Lake,1-14,21.0,357.0,,2.86,2.5,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,5,,,,True,False,1031,River,0
+ANS548,Lake,Péri-halastavak,Lake,1-4,21.0,99.0,,0.79,1.3,0.0,1.0,síkvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1033,River,0
+ANS551,Lake,Rakacai-víztározó,Lake,2-6,26.0,235.0,,1.9,2.7,0.0,1.0,síkvidéki,Not applicable,Not applicable,meszes,5,,,,True,False,1035,River,1
+ANS554,Lake,Szálkai-tározó,Lake,1-15,6.0,23.0,,0.66,3.5,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,5,46.263612,18.615985,1.0,True,True,1038,River,0
+ANS557,Lake,Tamási Fürgedi- és Kecsegei-árkon lévő tavak,Lake,1-12,53.0,76.0,,1.19,1.3,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,46.654056,18.371944,1.0,True,True,1039,River,0
+ANS558,Lake,Tamási Gonozdi-patakon lévő halastavak,Lake,1-12,35.0,68.0,,1.0,1.5,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,,,,True,False,1040,River,0
+ANS563,Lake,Varsádi-halastavak,Lake,1-11,54.0,118.0,,1.95,1.3,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,46.540151,18.520277,1.0,True,True,1045,River,0
+ANS565,Lake,Zámolyi-tározó,Lake,1-14,17.0,255.0,,1.69,1.7,0.0,1.0,dombvidéki,Not applicable,Not applicable,meszes,8,47.301912,18.464854,1.0,True,True,1046,River,0

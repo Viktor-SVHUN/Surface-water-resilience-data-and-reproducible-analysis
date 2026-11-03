@@ -1,0 +1,18 @@
+﻿exclusion_reason,parameter,MERTEKEGYSEG_NEV,rows
+incompatible_or_unknown_unit,Turbidity (NTU),gramm/liter,831
+missing_VOR,Ammonium (NH4-N),gramm/liter,2192
+missing_VOR,BOD (5),gramm/liter,2198
+missing_VOR,COD (Cr),gramm/liter,2080
+missing_VOR,Conductivity,mikroSiemens/centiméter,2170
+missing_VOR,Dissolved oxygen,gramm/liter,2219
+missing_VOR,Nitrate (NO3-N),gramm/liter,2223
+missing_VOR,Nitrite (NO2-N),gramm/liter,2207
+missing_VOR,Orthophosphate (PO4-P),gramm/liter,877
+missing_VOR,Orthophosphate (PO4-P),mg/l,1163
+missing_VOR,Oxygen saturation,százalék,2170
+missing_VOR,Phytoplankton (biomass  - chlorophyll-a),gramm/liter,937
+missing_VOR,Phytoplankton (biomass  - chlorophyll-a),mg/l,1203
+missing_VOR,Total nitrogen,mg/l,1653
+missing_VOR,Total phosphorus,mg/l,1980
+outside_physicochemical_scope,Diclofenák,gramm/liter,4
+outside_physicochemical_scope,Total coliforms (37 C),db (individuum)/ml,834

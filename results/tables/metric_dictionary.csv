@@ -1,0 +1,43 @@
+﻿metric,graph_or_level,definition,unit,interpretation
+DCI,hydrological directed VOR graph,sum_u A_uv,dimensionless,number of direct upstream recipient connections
+DCO,hydrological directed VOR graph,sum_u A_vu,dimensionless,number of outgoing recipient connections
+DC,hydrological directed VOR graph,DCI+DCO,dimensionless,all incident directed connections
+BC,hydrological directed VOR graph,sum_{s!=v!=t} sigma_st(v)/sigma_st divided by (N-1)(N-2),dimensionless,directed normalized shortest-path betweenness
+CC_IN,hydrological directed VOR graph,NetworkX WF improved inward closeness,dimensionless,disconnected-network correction; incoming paths
+CC_OUT,hydrological directed VOR graph,WF improved closeness on reversed graph,dimensionless,outgoing paths
+HC_IN,hydrological directed VOR graph,"sum_{u!=v} 1/d(u,v); unreachable contributes 0",dimensionless,inward unnormalized harmonic centrality
+HC_OUT,hydrological directed VOR graph,"sum_{u!=v} 1/d(v,u); unreachable contributes 0",dimensionless,outward unnormalized harmonic centrality
+PRC,hydrological directed VOR graph,PR_v=(1-.85)/N+.85 sum_u PR_u/outdegree_u; dangling mass uniform,dimensionless,"damping .85, unit-sum scores; hydrological connectivity, not pollutant mass"
+AC_alpha09,hydrological directed VOR graph,(I-.9*A.T)c=1,dimensionless,unit exogenous vector; require .9*spectral_radius<1
+AUT,hydrological directed VOR graph,"leading right singular vector of A, max-scaled",dimensionless,HITS authority: connections from hubs; degeneracy possible
+HBS,hydrological directed VOR graph,"leading left singular vector of A, max-scaled",dimensionless,HITS hub: connections towards authorities; degeneracy possible
+UPS,hydrological directed VOR graph,|ancestors(v)|,dimensionless,number of water bodies draining (directly or indirectly) into v; upstream contributing network size
+DOWN,hydrological directed VOR graph,"min_{sink t reachable from v} d(v,t)",dimensionless,recipient steps from v to the network outlet
+N_good,water-body/parameter annual series,count observed annual values with s*(x-threshold)<=0,annual observations,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+N_bad,water-body/parameter annual series,count observed annual values with s*(x-threshold)>0,annual observations,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+Amax_bad,water-body/parameter annual series,"max(0,max s*(x-threshold))",parameter unit,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+Amax_good,water-body/parameter annual series,"max(0,max -s*(x-threshold))",parameter unit,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+Lmax_bad_years,water-body/parameter annual series,longest run of observed adverse consecutive calendar years,observed consecutive annual summaries,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+Lmax_good_years,water-body/parameter annual series,longest run of observed compliant consecutive calendar years,observed consecutive annual summaries,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+ARL_bad_years,water-body/parameter annual series,mean length of adverse runs only; absent state NA,observed consecutive annual summaries,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+ARL_good_years,water-body/parameter annual series,mean length of compliant runs only; absent state NA,observed consecutive annual summaries,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+tR_first_observed_years,water-body/parameter annual series,first observed compliant year after worst adverse annual year minus worst year,calendar-year difference,Not duration of uninterrupted conditions between actual samples; gaps and censoring explicit
+DZI,"annual temporal HVG (D=directed,U=undirected projection)",sum_i(max indegree-indegree_i)/(n-1)^2,dimensionless or graph edge steps,directed Freeman degree centralization
+DZO,"annual temporal HVG (D=directed,U=undirected projection)",sum_i(max outdegree-outdegree_i)/(n-1)^2,dimensionless or graph edge steps,directed Freeman degree centralization
+DZ_U,"annual temporal HVG (D=directed,U=undirected projection)",sum_i(max degree-degree_i)/((n-1)(n-2)),dimensionless or graph edge steps,undirected projection
+BZ_D,"annual temporal HVG (D=directed,U=undirected projection)",sum_i(max BC_raw-BC_raw_i)/((n-1)^2*(n-2)),dimensionless or graph edge steps,directed betweenness centralization
+PRZ_D,"annual temporal HVG (D=directed,U=undirected projection)",sum_i(max PR-PR_i),dimensionless or graph edge steps,"unnormalised PageRank concentration, not average PageRank"
+Dens_D,"annual temporal HVG (D=directed,U=undirected projection)",m/(n(n-1)),dimensionless or graph edge steps,directed graph; not undirected 2m formula
+Arcs,"annual temporal HVG (D=directed,U=undirected projection)",m,dimensionless or graph edge steps,"series-length dependent; secondary, not selected primary"
+Diam_D,"annual temporal HVG (D=directed,U=undirected projection)",max finite positive directed geodesic distance,dimensionless or graph edge steps,unreachable paths excluded
+AVPL_D,"annual temporal HVG (D=directed,U=undirected projection)",mean finite positive directed geodesic distances,dimensionless or graph edge steps,reachable pairs only
+GLE_D,"annual temporal HVG (D=directed,U=undirected projection)","sum_{i!=j,reachable} 1/d(i,j)/(n(n-1))",dimensionless or graph edge steps,unreachable pairs contribute 0
+ALE_U,"annual temporal HVG (D=directed,U=undirected projection)",mean undirected efficiency of induced neighbor subgraphs,dimensionless or graph edge steps,explicit undirected projection; low-degree vertices contribute 0
+LeM_U,"annual temporal HVG (D=directed,U=undirected projection)","undirected modularity of Leiden partition, objective modularity, n_iterations=-1",dimensionless or graph edge steps,partition and modularity both use the undirected projection
+IM_D,"annual temporal HVG (D=directed,U=undirected projection)",directed modularity of Infomap membership; trials=10,dimensionless or graph edge steps,"partition modularity, not Infomap codelength; fixed seed"
+Mot_D,"annual temporal HVG (D=directed,U=undirected projection)",igraph motifs_randesu_no(size=3),dimensionless or graph edge steps,connected induced three-node motif count; series-length dependent
+Tra_U,"annual temporal HVG (D=directed,U=undirected projection)",3*triangles/connected_triplets,dimensionless or graph edge steps,"igraph transitivity ignores direction, made explicit; zero if no triplets"
+VAs_D,"annual temporal HVG (D=directed,U=undirected projection)",sum_i|outdegree_i-indegree_i|/(2*m),dimensionless or graph edge steps,adjacency row/column imbalance
+RRes_U,"annual temporal HVG (D=directed,U=undirected projection)","mean trapezoid AUC(LCC/n against removed fraction), random permutation",dimensionless or graph edge steps,area under the largest-component retention curve under random vertex deletion
+SRes_U,"annual temporal HVG (D=directed,U=undirected projection)","trapezoid AUC(LCC/n against removed fraction), adaptive max-degree attack",dimensionless or graph edge steps,adaptive highest-degree deletion with deterministic ties; not ecological recovery
+conditional_compliance,water body with monitored direct upstream neighbors,sum_y I(good_vy) I(any_observed_upstream_adverse_y) / sum_y I(any_observed_upstream_adverse_y),fraction,"Annual empirical upstream-conditioned compliance, not a causal intrinsic capacity; complete-coverage sensitivity and block-bootstrap intervals"

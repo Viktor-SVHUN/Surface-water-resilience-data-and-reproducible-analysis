@@ -1,0 +1,14 @@
+﻿parameter,unit,body_parameter_combinations,median_years,min_years,max_years,eligible_HVG,eligible_local_ranking,site_year_records,body_year_records
+Ammonium (NH4-N),g/L,925,5.0,1,22,259,259,8669,6722
+BOD (5),g/L,925,5.0,1,23,254,254,8723,6772
+COD (Cr),g/L,925,5.0,1,22,230,230,7982,6166
+Conductivity,uS/cm,925,5.0,1,22,248,248,8533,6600
+Dissolved oxygen,g/L,925,5.0,1,23,257,257,8844,6841
+Nitrate (NO3-N),g/L,925,5.0,1,23,258,258,8877,6862
+Nitrite (NO2-N),g/L,925,5.0,1,23,258,235,8867,6855
+Orthophosphate (PO4-P),g/L,925,5.0,1,21,244,244,8320,6453
+Oxygen saturation,%,925,5.0,1,23,253,253,8716,6763
+Phytoplankton (biomass  - chlorophyll-a),g/L,925,5.0,1,23,255,22,8705,6758
+Total nitrogen,g/L,921,5.0,1,22,218,218,7418,5857
+Total phosphorus,g/L,913,5.0,1,22,241,241,8089,6280
+Turbidity (NTU),NTU,124,2.0,1,6,0,0,276,231

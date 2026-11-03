@@ -1,0 +1,601 @@
+﻿VOR,parameter
+AEP334,Ammonium (NH4-N)
+AEP336,Ammonium (NH4-N)
+AEP350,Ammonium (NH4-N)
+AEP355,Ammonium (NH4-N)
+AEP360,Ammonium (NH4-N)
+AEP382,Ammonium (NH4-N)
+AEP462,Ammonium (NH4-N)
+AEP464,Ammonium (NH4-N)
+AEP538,Ammonium (NH4-N)
+AEP618,Ammonium (NH4-N)
+AEP651,Ammonium (NH4-N)
+AEP659,Ammonium (NH4-N)
+AEP669,Ammonium (NH4-N)
+AEP701,Ammonium (NH4-N)
+AEP719,Ammonium (NH4-N)
+AEP725,Ammonium (NH4-N)
+AEP729,Ammonium (NH4-N)
+AEP748,Ammonium (NH4-N)
+AEP779,Ammonium (NH4-N)
+AEP816,Ammonium (NH4-N)
+AEP820,Ammonium (NH4-N)
+AEP850,Ammonium (NH4-N)
+AEP875,Ammonium (NH4-N)
+AEP889,Ammonium (NH4-N)
+AEP898,Ammonium (NH4-N)
+AEP899,Ammonium (NH4-N)
+AEP904,Ammonium (NH4-N)
+AEP931,Ammonium (NH4-N)
+AEP935,Ammonium (NH4-N)
+AEP962,Ammonium (NH4-N)
+AEP969,Ammonium (NH4-N)
+AEP976,Ammonium (NH4-N)
+AEQ016,Ammonium (NH4-N)
+AEQ032,Ammonium (NH4-N)
+AEQ040,Ammonium (NH4-N)
+AEQ052,Ammonium (NH4-N)
+AEQ054,Ammonium (NH4-N)
+AEQ056,Ammonium (NH4-N)
+AEQ058,Ammonium (NH4-N)
+AEQ059,Ammonium (NH4-N)
+AEQ060,Ammonium (NH4-N)
+AEQ075,Ammonium (NH4-N)
+AEQ083,Ammonium (NH4-N)
+AEQ125,Ammonium (NH4-N)
+AEQ146,Ammonium (NH4-N)
+AIH086,Ammonium (NH4-N)
+AIH092,Ammonium (NH4-N)
+AIH118,Ammonium (NH4-N)
+AIQ959,Ammonium (NH4-N)
+AIQ960,Ammonium (NH4-N)
+AEP273,BOD (5)
+AEP300,BOD (5)
+AEP301,BOD (5)
+AEP355,BOD (5)
+AEP360,BOD (5)
+AEP382,BOD (5)
+AEP425,BOD (5)
+AEP438,BOD (5)
+AEP461,BOD (5)
+AEP521,BOD (5)
+AEP530,BOD (5)
+AEP540,BOD (5)
+AEP594,BOD (5)
+AEP614,BOD (5)
+AEP650,BOD (5)
+AEP669,BOD (5)
+AEP719,BOD (5)
+AEP722,BOD (5)
+AEP725,BOD (5)
+AEP749,BOD (5)
+AEP779,BOD (5)
+AEP811,BOD (5)
+AEP816,BOD (5)
+AEP820,BOD (5)
+AEP829,BOD (5)
+AEP875,BOD (5)
+AEP876,BOD (5)
+AEP877,BOD (5)
+AEP899,BOD (5)
+AEP902,BOD (5)
+AEP904,BOD (5)
+AEP955,BOD (5)
+AEQ016,BOD (5)
+AEQ030,BOD (5)
+AEQ037,BOD (5)
+AEQ040,BOD (5)
+AEQ047,BOD (5)
+AEQ058,BOD (5)
+AEQ075,BOD (5)
+AEQ083,BOD (5)
+AEQ108,BOD (5)
+AEQ146,BOD (5)
+AEQ147,BOD (5)
+AIH049,BOD (5)
+AIH070,BOD (5)
+AIH077,BOD (5)
+AIH086,BOD (5)
+AIH122,BOD (5)
+AIH142,BOD (5)
+AIQ014,BOD (5)
+AEP278,COD (Cr)
+AEP356,COD (Cr)
+AEP371,COD (Cr)
+AEP376,COD (Cr)
+AEP382,COD (Cr)
+AEP438,COD (Cr)
+AEP459,COD (Cr)
+AEP464,COD (Cr)
+AEP478,COD (Cr)
+AEP506,COD (Cr)
+AEP521,COD (Cr)
+AEP561,COD (Cr)
+AEP580,COD (Cr)
+AEP614,COD (Cr)
+AEP625,COD (Cr)
+AEP646,COD (Cr)
+AEP661,COD (Cr)
+AEP669,COD (Cr)
+AEP703,COD (Cr)
+AEP721,COD (Cr)
+AEP739,COD (Cr)
+AEP748,COD (Cr)
+AEP759,COD (Cr)
+AEP810,COD (Cr)
+AEP816,COD (Cr)
+AEP821,COD (Cr)
+AEP850,COD (Cr)
+AEP883,COD (Cr)
+AEP888,COD (Cr)
+AEP895,COD (Cr)
+AEP898,COD (Cr)
+AEP899,COD (Cr)
+AEP900,COD (Cr)
+AEP902,COD (Cr)
+AEP903,COD (Cr)
+AEP906,COD (Cr)
+AEP919,COD (Cr)
+AEP931,COD (Cr)
+AEP935,COD (Cr)
+AEP954,COD (Cr)
+AEP971,COD (Cr)
+AEP976,COD (Cr)
+AEQ005,COD (Cr)
+AEQ032,COD (Cr)
+AEQ055,COD (Cr)
+AEQ056,COD (Cr)
+AEQ068,COD (Cr)
+AEQ140,COD (Cr)
+AIH049,COD (Cr)
+AIQ014,COD (Cr)
+AEP277,Conductivity
+AEP278,Conductivity
+AEP300,Conductivity
+AEP382,Conductivity
+AEP436,Conductivity
+AEP438,Conductivity
+AEP443,Conductivity
+AEP459,Conductivity
+AEP538,Conductivity
+AEP539,Conductivity
+AEP540,Conductivity
+AEP561,Conductivity
+AEP579,Conductivity
+AEP580,Conductivity
+AEP611,Conductivity
+AEP618,Conductivity
+AEP625,Conductivity
+AEP631,Conductivity
+AEP645,Conductivity
+AEP651,Conductivity
+AEP659,Conductivity
+AEP669,Conductivity
+AEP748,Conductivity
+AEP777,Conductivity
+AEP850,Conductivity
+AEP861,Conductivity
+AEP875,Conductivity
+AEP876,Conductivity
+AEP877,Conductivity
+AEP906,Conductivity
+AEP919,Conductivity
+AEP927,Conductivity
+AEP953,Conductivity
+AEP962,Conductivity
+AEQ054,Conductivity
+AEQ056,Conductivity
+AEQ059,Conductivity
+AEQ060,Conductivity
+AEQ083,Conductivity
+AEQ118,Conductivity
+AEQ125,Conductivity
+AEQ139,Conductivity
+AIH047,Conductivity
+AIH048,Conductivity
+AIH049,Conductivity
+AIH056,Conductivity
+AIH070,Conductivity
+AIH142,Conductivity
+AIQ007,Conductivity
+AIQ960,Conductivity
+AEP278,Dissolved oxygen
+AEP297,Dissolved oxygen
+AEP301,Dissolved oxygen
+AEP360,Dissolved oxygen
+AEP425,Dissolved oxygen
+AEP436,Dissolved oxygen
+AEP438,Dissolved oxygen
+AEP441,Dissolved oxygen
+AEP443,Dissolved oxygen
+AEP446,Dissolved oxygen
+AEP459,Dissolved oxygen
+AEP461,Dissolved oxygen
+AEP500,Dissolved oxygen
+AEP506,Dissolved oxygen
+AEP530,Dissolved oxygen
+AEP540,Dissolved oxygen
+AEP561,Dissolved oxygen
+AEP564,Dissolved oxygen
+AEP580,Dissolved oxygen
+AEP625,Dissolved oxygen
+AEP661,Dissolved oxygen
+AEP703,Dissolved oxygen
+AEP719,Dissolved oxygen
+AEP721,Dissolved oxygen
+AEP728,Dissolved oxygen
+AEP759,Dissolved oxygen
+AEP812,Dissolved oxygen
+AEP829,Dissolved oxygen
+AEP849,Dissolved oxygen
+AEP874,Dissolved oxygen
+AEP888,Dissolved oxygen
+AEP900,Dissolved oxygen
+AEP903,Dissolved oxygen
+AEP953,Dissolved oxygen
+AEP955,Dissolved oxygen
+AEP959,Dissolved oxygen
+AEP969,Dissolved oxygen
+AEQ030,Dissolved oxygen
+AEQ040,Dissolved oxygen
+AEQ047,Dissolved oxygen
+AEQ054,Dissolved oxygen
+AEQ055,Dissolved oxygen
+AEQ060,Dissolved oxygen
+AEQ075,Dissolved oxygen
+AEQ080,Dissolved oxygen
+AEQ140,Dissolved oxygen
+AIH067,Dissolved oxygen
+AIH092,Dissolved oxygen
+AIH122,Dissolved oxygen
+AIH123,Dissolved oxygen
+AEP290,Nitrate (NO3-N)
+AEP334,Nitrate (NO3-N)
+AEP360,Nitrate (NO3-N)
+AEP371,Nitrate (NO3-N)
+AEP438,Nitrate (NO3-N)
+AEP446,Nitrate (NO3-N)
+AEP461,Nitrate (NO3-N)
+AEP462,Nitrate (NO3-N)
+AEP478,Nitrate (NO3-N)
+AEP490,Nitrate (NO3-N)
+AEP506,Nitrate (NO3-N)
+AEP515,Nitrate (NO3-N)
+AEP540,Nitrate (NO3-N)
+AEP618,Nitrate (NO3-N)
+AEP621,Nitrate (NO3-N)
+AEP625,Nitrate (NO3-N)
+AEP631,Nitrate (NO3-N)
+AEP645,Nitrate (NO3-N)
+AEP651,Nitrate (NO3-N)
+AEP657,Nitrate (NO3-N)
+AEP701,Nitrate (NO3-N)
+AEP729,Nitrate (NO3-N)
+AEP748,Nitrate (NO3-N)
+AEP779,Nitrate (NO3-N)
+AEP849,Nitrate (NO3-N)
+AEP861,Nitrate (NO3-N)
+AEP874,Nitrate (NO3-N)
+AEP883,Nitrate (NO3-N)
+AEP888,Nitrate (NO3-N)
+AEP906,Nitrate (NO3-N)
+AEP962,Nitrate (NO3-N)
+AEP969,Nitrate (NO3-N)
+AEP976,Nitrate (NO3-N)
+AEQ005,Nitrate (NO3-N)
+AEQ010,Nitrate (NO3-N)
+AEQ032,Nitrate (NO3-N)
+AEQ039,Nitrate (NO3-N)
+AEQ040,Nitrate (NO3-N)
+AEQ059,Nitrate (NO3-N)
+AEQ060,Nitrate (NO3-N)
+AEQ067,Nitrate (NO3-N)
+AEQ080,Nitrate (NO3-N)
+AEQ083,Nitrate (NO3-N)
+AEQ107,Nitrate (NO3-N)
+AIH047,Nitrate (NO3-N)
+AIH048,Nitrate (NO3-N)
+AIH092,Nitrate (NO3-N)
+AIQ014,Nitrate (NO3-N)
+AIQ959,Nitrate (NO3-N)
+AIW389,Nitrate (NO3-N)
+AEP334,Nitrite (NO2-N)
+AEP436,Nitrite (NO2-N)
+AEP441,Nitrite (NO2-N)
+AEP461,Nitrite (NO2-N)
+AEP490,Nitrite (NO2-N)
+AEP539,Nitrite (NO2-N)
+AEP562,Nitrite (NO2-N)
+AEP564,Nitrite (NO2-N)
+AEP611,Nitrite (NO2-N)
+AEP631,Nitrite (NO2-N)
+AEP650,Nitrite (NO2-N)
+AEP657,Nitrite (NO2-N)
+AEP665,Nitrite (NO2-N)
+AEP703,Nitrite (NO2-N)
+AEP708,Nitrite (NO2-N)
+AEP719,Nitrite (NO2-N)
+AEP729,Nitrite (NO2-N)
+AEP748,Nitrite (NO2-N)
+AEP759,Nitrite (NO2-N)
+AEP810,Nitrite (NO2-N)
+AEP820,Nitrite (NO2-N)
+AEP876,Nitrite (NO2-N)
+AEP895,Nitrite (NO2-N)
+AEP898,Nitrite (NO2-N)
+AEP900,Nitrite (NO2-N)
+AEP902,Nitrite (NO2-N)
+AEP935,Nitrite (NO2-N)
+AEP953,Nitrite (NO2-N)
+AEP954,Nitrite (NO2-N)
+AEP955,Nitrite (NO2-N)
+AEP969,Nitrite (NO2-N)
+AEP971,Nitrite (NO2-N)
+AEQ005,Nitrite (NO2-N)
+AEQ052,Nitrite (NO2-N)
+AEQ055,Nitrite (NO2-N)
+AEQ056,Nitrite (NO2-N)
+AEQ083,Nitrite (NO2-N)
+AEQ108,Nitrite (NO2-N)
+AEQ136,Nitrite (NO2-N)
+AEQ137,Nitrite (NO2-N)
+AEQ146,Nitrite (NO2-N)
+AEQ147,Nitrite (NO2-N)
+AIH048,Nitrite (NO2-N)
+AIH049,Nitrite (NO2-N)
+AIH056,Nitrite (NO2-N)
+AIH070,Nitrite (NO2-N)
+AIH077,Nitrite (NO2-N)
+AIH122,Nitrite (NO2-N)
+AIQ007,Nitrite (NO2-N)
+AIW389,Nitrite (NO2-N)
+AEP273,Orthophosphate (PO4-P)
+AEP322,Orthophosphate (PO4-P)
+AEP356,Orthophosphate (PO4-P)
+AEP360,Orthophosphate (PO4-P)
+AEP371,Orthophosphate (PO4-P)
+AEP438,Orthophosphate (PO4-P)
+AEP441,Orthophosphate (PO4-P)
+AEP446,Orthophosphate (PO4-P)
+AEP449,Orthophosphate (PO4-P)
+AEP459,Orthophosphate (PO4-P)
+AEP521,Orthophosphate (PO4-P)
+AEP539,Orthophosphate (PO4-P)
+AEP661,Orthophosphate (PO4-P)
+AEP719,Orthophosphate (PO4-P)
+AEP721,Orthophosphate (PO4-P)
+AEP722,Orthophosphate (PO4-P)
+AEP725,Orthophosphate (PO4-P)
+AEP748,Orthophosphate (PO4-P)
+AEP759,Orthophosphate (PO4-P)
+AEP766,Orthophosphate (PO4-P)
+AEP777,Orthophosphate (PO4-P)
+AEP783,Orthophosphate (PO4-P)
+AEP784,Orthophosphate (PO4-P)
+AEP805,Orthophosphate (PO4-P)
+AEP812,Orthophosphate (PO4-P)
+AEP873,Orthophosphate (PO4-P)
+AEP874,Orthophosphate (PO4-P)
+AEP883,Orthophosphate (PO4-P)
+AEP903,Orthophosphate (PO4-P)
+AEP906,Orthophosphate (PO4-P)
+AEP932,Orthophosphate (PO4-P)
+AEP935,Orthophosphate (PO4-P)
+AEP953,Orthophosphate (PO4-P)
+AEP955,Orthophosphate (PO4-P)
+AEP959,Orthophosphate (PO4-P)
+AEP962,Orthophosphate (PO4-P)
+AEP971,Orthophosphate (PO4-P)
+AEQ010,Orthophosphate (PO4-P)
+AEQ013,Orthophosphate (PO4-P)
+AEQ032,Orthophosphate (PO4-P)
+AEQ040,Orthophosphate (PO4-P)
+AEQ047,Orthophosphate (PO4-P)
+AEQ055,Orthophosphate (PO4-P)
+AEQ056,Orthophosphate (PO4-P)
+AEQ075,Orthophosphate (PO4-P)
+AEQ076,Orthophosphate (PO4-P)
+AEQ137,Orthophosphate (PO4-P)
+AEQ146,Orthophosphate (PO4-P)
+AIH047,Orthophosphate (PO4-P)
+AIH118,Orthophosphate (PO4-P)
+AEP277,Oxygen saturation
+AEP278,Oxygen saturation
+AEP290,Oxygen saturation
+AEP297,Oxygen saturation
+AEP301,Oxygen saturation
+AEP360,Oxygen saturation
+AEP371,Oxygen saturation
+AEP376,Oxygen saturation
+AEP443,Oxygen saturation
+AEP459,Oxygen saturation
+AEP515,Oxygen saturation
+AEP540,Oxygen saturation
+AEP562,Oxygen saturation
+AEP564,Oxygen saturation
+AEP579,Oxygen saturation
+AEP632,Oxygen saturation
+AEP657,Oxygen saturation
+AEP668,Oxygen saturation
+AEP669,Oxygen saturation
+AEP729,Oxygen saturation
+AEP766,Oxygen saturation
+AEP777,Oxygen saturation
+AEP874,Oxygen saturation
+AEP895,Oxygen saturation
+AEP898,Oxygen saturation
+AEP900,Oxygen saturation
+AEP902,Oxygen saturation
+AEP903,Oxygen saturation
+AEP906,Oxygen saturation
+AEP928,Oxygen saturation
+AEP955,Oxygen saturation
+AEP959,Oxygen saturation
+AEQ030,Oxygen saturation
+AEQ032,Oxygen saturation
+AEQ039,Oxygen saturation
+AEQ052,Oxygen saturation
+AEQ058,Oxygen saturation
+AEQ067,Oxygen saturation
+AEQ075,Oxygen saturation
+AEQ076,Oxygen saturation
+AEQ080,Oxygen saturation
+AEQ083,Oxygen saturation
+AEQ088,Oxygen saturation
+AEQ118,Oxygen saturation
+AEQ137,Oxygen saturation
+AEQ147,Oxygen saturation
+AIH047,Oxygen saturation
+AIH049,Oxygen saturation
+AIH077,Oxygen saturation
+AIH142,Oxygen saturation
+AEP273,Phytoplankton (biomass  - chlorophyll-a)
+AEP300,Phytoplankton (biomass  - chlorophyll-a)
+AEP301,Phytoplankton (biomass  - chlorophyll-a)
+AEP332,Phytoplankton (biomass  - chlorophyll-a)
+AEP355,Phytoplankton (biomass  - chlorophyll-a)
+AEP446,Phytoplankton (biomass  - chlorophyll-a)
+AEP449,Phytoplankton (biomass  - chlorophyll-a)
+AEP459,Phytoplankton (biomass  - chlorophyll-a)
+AEP461,Phytoplankton (biomass  - chlorophyll-a)
+AEP462,Phytoplankton (biomass  - chlorophyll-a)
+AEP471,Phytoplankton (biomass  - chlorophyll-a)
+AEP561,Phytoplankton (biomass  - chlorophyll-a)
+AEP580,Phytoplankton (biomass  - chlorophyll-a)
+AEP625,Phytoplankton (biomass  - chlorophyll-a)
+AEP645,Phytoplankton (biomass  - chlorophyll-a)
+AEP651,Phytoplankton (biomass  - chlorophyll-a)
+AEP659,Phytoplankton (biomass  - chlorophyll-a)
+AEP703,Phytoplankton (biomass  - chlorophyll-a)
+AEP708,Phytoplankton (biomass  - chlorophyll-a)
+AEP721,Phytoplankton (biomass  - chlorophyll-a)
+AEP722,Phytoplankton (biomass  - chlorophyll-a)
+AEP725,Phytoplankton (biomass  - chlorophyll-a)
+AEP749,Phytoplankton (biomass  - chlorophyll-a)
+AEP777,Phytoplankton (biomass  - chlorophyll-a)
+AEP783,Phytoplankton (biomass  - chlorophyll-a)
+AEP784,Phytoplankton (biomass  - chlorophyll-a)
+AEP816,Phytoplankton (biomass  - chlorophyll-a)
+AEP820,Phytoplankton (biomass  - chlorophyll-a)
+AEP821,Phytoplankton (biomass  - chlorophyll-a)
+AEP875,Phytoplankton (biomass  - chlorophyll-a)
+AEP876,Phytoplankton (biomass  - chlorophyll-a)
+AEP883,Phytoplankton (biomass  - chlorophyll-a)
+AEP888,Phytoplankton (biomass  - chlorophyll-a)
+AEP919,Phytoplankton (biomass  - chlorophyll-a)
+AEP928,Phytoplankton (biomass  - chlorophyll-a)
+AEP953,Phytoplankton (biomass  - chlorophyll-a)
+AEP959,Phytoplankton (biomass  - chlorophyll-a)
+AEP969,Phytoplankton (biomass  - chlorophyll-a)
+AEQ005,Phytoplankton (biomass  - chlorophyll-a)
+AEQ030,Phytoplankton (biomass  - chlorophyll-a)
+AEQ055,Phytoplankton (biomass  - chlorophyll-a)
+AEQ083,Phytoplankton (biomass  - chlorophyll-a)
+AEQ125,Phytoplankton (biomass  - chlorophyll-a)
+AEQ136,Phytoplankton (biomass  - chlorophyll-a)
+AEQ146,Phytoplankton (biomass  - chlorophyll-a)
+AIH048,Phytoplankton (biomass  - chlorophyll-a)
+AIH056,Phytoplankton (biomass  - chlorophyll-a)
+AIH086,Phytoplankton (biomass  - chlorophyll-a)
+AIQ960,Phytoplankton (biomass  - chlorophyll-a)
+AIW389,Phytoplankton (biomass  - chlorophyll-a)
+AEP277,Total nitrogen
+AEP332,Total nitrogen
+AEP336,Total nitrogen
+AEP356,Total nitrogen
+AEP360,Total nitrogen
+AEP382,Total nitrogen
+AEP436,Total nitrogen
+AEP446,Total nitrogen
+AEP478,Total nitrogen
+AEP540,Total nitrogen
+AEP579,Total nitrogen
+AEP580,Total nitrogen
+AEP618,Total nitrogen
+AEP621,Total nitrogen
+AEP646,Total nitrogen
+AEP657,Total nitrogen
+AEP661,Total nitrogen
+AEP665,Total nitrogen
+AEP721,Total nitrogen
+AEP722,Total nitrogen
+AEP729,Total nitrogen
+AEP759,Total nitrogen
+AEP766,Total nitrogen
+AEP777,Total nitrogen
+AEP783,Total nitrogen
+AEP810,Total nitrogen
+AEP873,Total nitrogen
+AEP876,Total nitrogen
+AEP898,Total nitrogen
+AEP899,Total nitrogen
+AEP931,Total nitrogen
+AEP932,Total nitrogen
+AEP935,Total nitrogen
+AEP954,Total nitrogen
+AEP959,Total nitrogen
+AEP962,Total nitrogen
+AEP969,Total nitrogen
+AEP971,Total nitrogen
+AEQ016,Total nitrogen
+AEQ032,Total nitrogen
+AEQ053,Total nitrogen
+AEQ056,Total nitrogen
+AEQ058,Total nitrogen
+AEQ083,Total nitrogen
+AEQ118,Total nitrogen
+AEQ125,Total nitrogen
+AIH049,Total nitrogen
+AIH056,Total nitrogen
+AIH070,Total nitrogen
+AIH142,Total nitrogen
+AEP278,Total phosphorus
+AEP300,Total phosphorus
+AEP336,Total phosphorus
+AEP360,Total phosphorus
+AEP436,Total phosphorus
+AEP443,Total phosphorus
+AEP462,Total phosphorus
+AEP478,Total phosphorus
+AEP526,Total phosphorus
+AEP562,Total phosphorus
+AEP580,Total phosphorus
+AEP594,Total phosphorus
+AEP611,Total phosphorus
+AEP632,Total phosphorus
+AEP659,Total phosphorus
+AEP665,Total phosphorus
+AEP703,Total phosphorus
+AEP708,Total phosphorus
+AEP719,Total phosphorus
+AEP725,Total phosphorus
+AEP766,Total phosphorus
+AEP783,Total phosphorus
+AEP861,Total phosphorus
+AEP874,Total phosphorus
+AEP899,Total phosphorus
+AEP906,Total phosphorus
+AEP919,Total phosphorus
+AEP928,Total phosphorus
+AEP931,Total phosphorus
+AEP935,Total phosphorus
+AEP953,Total phosphorus
+AEQ016,Total phosphorus
+AEQ040,Total phosphorus
+AEQ047,Total phosphorus
+AEQ052,Total phosphorus
+AEQ056,Total phosphorus
+AEQ057,Total phosphorus
+AEQ058,Total phosphorus
+AEQ067,Total phosphorus
+AEQ080,Total phosphorus
+AEQ084,Total phosphorus
+AEQ118,Total phosphorus
+AEQ137,Total phosphorus
+AIH048,Total phosphorus
+AIH056,Total phosphorus
+AIH086,Total phosphorus
+AIQ007,Total phosphorus
+AIQ014,Total phosphorus
+AIQ959,Total phosphorus
+AIQ960,Total phosphorus

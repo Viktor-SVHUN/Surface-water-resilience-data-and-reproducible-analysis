@@ -1,0 +1,13 @@
+﻿indicator,Lake,River,Boundary
+Nitrate (NO3-N),0.00029066666666666667,0.0022500000000000003,lower
+Nitrite (NO2-N),,5.3750000000000005e-05,lower
+Phytoplankton (biomass  - chlorophyll-a),2.8333333333333332e-05,,lower
+Oxygen saturation,72.0,68.125,higher
+Ammonium (NH4-N),0.00023999999999999995,0.0003,lower
+BOD (5),0.004333333333333333,0.0036875000000000002,lower
+Total phosphorus,0.0002679999999999999,0.0001975,lower
+Total nitrogen,0.0025266666666666666,0.003375,lower
+COD (Cr),0.042666666666666665,0.02625,lower
+Conductivity,1053.3333333333333,887.5,lower
+Dissolved oxygen,0.0070999999999999995,0.006625,higher
+Orthophosphate (PO4-P),0.0001166666666666667,9.75e-05,lower

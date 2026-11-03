@@ -1,0 +1,9 @@
+﻿metric,retained,reason,with_metric,rho
+DCI,True,theory_priority_and_nonredundancy,,
+UPS,False,redundant_at_prespecified_cutoff,DCI,0.9889724520750743
+BC,False,redundant_at_prespecified_cutoff,DCI,0.9629903843208137
+DCO,True,theory_priority_and_nonredundancy,,
+DOWN,True,theory_priority_and_nonredundancy,,
+HC_IN,False,redundant_at_prespecified_cutoff,DCI,0.9928036522601904
+PRC,False,redundant_at_prespecified_cutoff,DCI,0.9909153014297138
+AC_alpha09,False,redundant_at_prespecified_cutoff,DCI,0.9908274941627931

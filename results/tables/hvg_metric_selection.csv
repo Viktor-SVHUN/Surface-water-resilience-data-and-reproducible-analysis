@@ -1,0 +1,7 @@
+﻿metric,retained,reason,with_metric,rho
+DZO,True,theory_priority_and_nonredundancy,,
+LeM_U,True,theory_priority_and_nonredundancy,,
+Tra_U,True,theory_priority_and_nonredundancy,,
+GLE_D,False,redundant_at_prespecified_cutoff,LeM_U,-0.9224110735696058
+AVPL_D,True,theory_priority_and_nonredundancy,,
+VAs_D,True,theory_priority_and_nonredundancy,,
