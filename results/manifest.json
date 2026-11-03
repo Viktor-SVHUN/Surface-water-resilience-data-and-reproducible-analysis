@@ -1,0 +1,172 @@
+{
+  "configuration": {
+    "start_year": 2000,
+    "end_year": 2022,
+    "seed": 42,
+    "min_years_local": 8,
+    "min_years_hvg": 8,
+    "min_parameters_ranking": 5,
+    "critical_quantile": 0.9,
+    "redundancy_rho": 0.9,
+    "correlation_min_n": 10,
+    "correlation_min_basins": 8,
+    "bootstrap_reps": 299,
+    "permutations_small_n": 999,
+    "sensitivity_reps": 20,
+    "sensitivity_series_per_parameter": 50,
+    "sensitivity_min_years": 12,
+    "deletion_fractions": [
+      0.1,
+      0.25,
+      0.5
+    ],
+    "threshold_shifts": [
+      -0.05,
+      0.05
+    ],
+    "permutations": 999,
+    "top_associations": 20,
+    "min_group_size_typology": 10,
+    "min_upstream_exposed_years": 5,
+    "tsne_perplexity": 30.0,
+    "tsne_iterations": 1000,
+    "tsne_learning_rate": 200.0,
+    "attack_reps": 20,
+    "run_tsne": true,
+    "run_sensitivity": true,
+    "selected_vor": "AIH049"
+  },
+  "versions": {
+    "Python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "networkx": "3.6.1",
+    "igraph": "1.0.0",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "openpyxl": "3.1.5",
+    "python-calamine": "unavailable",
+    "ts2vg": "1.2.5"
+  },
+  "elapsed_seconds": 171.51,
+  "input_files": [
+    {
+      "filename": "river_registry.csv",
+      "size": 314427,
+      "sha256": "9326d6b836f735658a41cfead459563f52e9f5a0113b4c70a0e371247fbe0ac6"
+    },
+    {
+      "filename": "lake_registry.csv",
+      "size": 79215,
+      "sha256": "f0408e692354dbccc52c21dd6c676ac93a878a8cdb80dc580c890e4282eb4f3a"
+    },
+    {
+      "filename": "water_quality_annual_site_summaries.xlsx",
+      "size": 51131410,
+      "sha256": "0447dca4394c9ca99b9731d9c3ecff529fab3183447a23e3efbf4ead475c3c5a"
+    },
+    {
+      "filename": "operational_thresholds.xlsx",
+      "size": 9575,
+      "sha256": "4aa9171f74863925a9f39dbe7c3e6c7c32114b777e31184959abb8be486bfc29"
+    }
+  ],
+  "data_audit": {
+    "raw_rows": 269288,
+    "selected_rows_before_dedup": 242347,
+    "site_version_rows_after_copy_removal": 102129,
+    "site_parameter_year_rows": 102019,
+    "conflicting_site_parameter_years": 109,
+    "annual_body_parameter_rows": 79160,
+    "annual_body_parameter_combinations": 11208,
+    "aggregation": "equal weight to site/year summaries; weighted variant exported",
+    "threshold_policy": "no mean substitution, no River threshold for Other",
+    "turbidity": "NTU only; g/L turbidity records excluded as incompatible units"
+  },
+  "raw_VOR_count": 925,
+  "raw_monitoring_KTJ_count": 1569,
+  "raw_missing_VOR_rows": 25324,
+  "raw_parameter_count": 15,
+  "river_catalogue_rows": 923,
+  "lake_catalogue_rows": 189,
+  "registered_rivers": 889,
+  "registered_lakes": 189,
+  "observed_types": {
+    "River": 713,
+    "Other": 129,
+    "Lake": 83
+  },
+  "overlapping_river_lake_catalogue_VORs": 34,
+  "observed_reclassified_LW_VORs": 11,
+  "network_nodes": 1207,
+  "network_edges": 1066,
+  "network_spectral_radius": 0.0,
+  "network_DAG": true,
+  "local_indicator_rows": 8745,
+  "HVG_rows": 2975,
+  "selected_hydrological_metrics": [
+    "DCI",
+    "DCO",
+    "DOWN"
+  ],
+  "selected_HVG_metrics": [
+    "DZO",
+    "LeM_U",
+    "Tra_U",
+    "AVPL_D",
+    "VAs_D"
+  ],
+  "common_ranking_parameters": [
+    "Ammonium (NH4-N)",
+    "BOD (5)",
+    "COD (Cr)",
+    "Conductivity",
+    "Dissolved oxygen",
+    "Nitrate (NO3-N)",
+    "Nitrite (NO2-N)",
+    "Orthophosphate (PO4-P)",
+    "Oxygen saturation",
+    "Total nitrogen",
+    "Total phosphorus"
+  ],
+  "tsne": {
+    "corrected": {
+      "n_bodies": 796,
+      "input_parameters": [
+        "Ammonium (NH4-N)",
+        "BOD (5)",
+        "COD (Cr)",
+        "Conductivity",
+        "Dissolved oxygen",
+        "Nitrate (NO3-N)",
+        "Nitrite (NO2-N)",
+        "Orthophosphate (PO4-P)",
+        "Oxygen saturation",
+        "Phytoplankton (biomass  - chlorophyll-a)",
+        "Total nitrogen",
+        "Total phosphorus"
+      ],
+      "imputed_fraction": 0.08448492462311558,
+      "preparation": "mean oriented relative deviation per body/parameter; at least 3 parameters per body; parameters in at least 10 bodies; parameter-median imputation; z-scaling",
+      "settings": {
+        "n_components": 2,
+        "random_state": 42,
+        "perplexity": 30.0,
+        "learning_rate": 200.0,
+        "max_iter": 1000,
+        "init": "pca",
+        "metric": "euclidean",
+        "method": "barnes_hut",
+        "angle": 0.5
+      },
+      "interpretation": "exploratory; not a significance or causal test"
+    }
+  },
+  "RBMP_status": "not included: no official-status input is distributed",
+  "reference_edge_disagreements": 0,
+  "analysis_units": "one registered VOR/parameter with annual summaries; not individual samples",
+  "inference_scope": "annual physicochemical associations and operational threshold compliance; no causal or full ecological claim",
+  "program_sha256": "f0ce042c2004e11bd24ac00c37b0995ccfd35324616e331f906289a521ed9842"
+}

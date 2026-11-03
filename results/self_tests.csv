@@ -1,0 +1,25 @@
+﻿test,passed
+Separate ARL good/bad runs,True
+"Recovery occurs on below-threshold value, not just equality",True
+Missing calendar year splits longest run,True
+Absent adverse run and no recovery event stay NA,True
+Higher-is-better oxygen classification,True
+Unrecovered episode is censored,True
+Threshold equality is compliant,True
+Strict HVG blocks equal-height endpoints,True
+HVG uses both endpoint heights,True
+HVG bridges lower intermediate node,True
+Reference-loop and running-maximum HVG agree on 300 series,True
+HVG invariant to positive scale and translation,True
+Independent ts2vg edge parity on continuous and tied series,True
+Directed density uses m/(n(n-1)),True
+Forward efficiency counts unreachable pairs as zero,True
+BH multiplicity adjustment,True
+Alpha centrality orientation and unit exogenous vector,True
+Mantel-Haenszel OR reproduces single-stratum OR,True
+Mantel-Haenszel OR stable for identical strata,True
+PERMANOVA detects shifted groups,True
+PERMANOVA null not rejected,True
+Upstream count and outlet distance,True
+Direction-aware threshold shift (higher-is-better),True
+Nonfinite HVG input rejected,True
