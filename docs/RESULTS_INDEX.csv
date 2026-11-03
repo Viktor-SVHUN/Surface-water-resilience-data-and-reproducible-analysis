@@ -1,0 +1,51 @@
+path,rows,columns,description
+results/tables/catalogue_type_reconciliation.csv,34,25,Water-body types reconciled against explicit lake categorisation
+results/tables/conflicting_site_annual_records.csv,109,12,Site-year records with conflicting source versions
+results/tables/excluded_monitoring_records.csv,17,4,Counts of excluded input rows by parameter and exclusion reason
+results/tables/excluded_recipient_links.csv,12,3,Recipient links omitted because of missing recipients or self loops
+results/tables/hvg_aggregation_concordance.csv,144,6,Between-series metric agreement under weighting and two-year bins
+results/tables/hvg_aggregation_sensitivity.csv,35700,8,Body/parameter/metric values under aggregation alternatives
+results/tables/hvg_annual_metrics.csv,2975,30,Temporal HVG metrics for eligible annual series
+results/tables/hvg_associations_controlled.csv,180,18,Typology/coverage-controlled hydrological-to-HVG associations
+results/tables/hvg_associations_unadjusted.csv,180,18,Unadjusted hydrological-to-HVG rank associations
+results/tables/hvg_deletion_concordance.csv,432,8,Metric-specific between-series deletion concordance
+results/tables/hvg_deletion_replicates.csv,432000,11,All random/block deletion replicate metrics
+results/tables/hvg_excluded_series.csv,8233,4,Annual series excluded from baseline HVG calculation
+results/tables/hvg_metric_redundancy.csv,18,19,Spearman redundancy matrix of HVG descriptors
+results/tables/hvg_metric_selection.csv,6,5,Outcome-blind primary HVG selection decisions
+results/tables/hvg_pca_loadings.csv,18,5,Loadings of the first four HVG principal components
+results/tables/hvg_pca_variance.csv,18,3,HVG principal-component explained variance
+results/tables/hvg_reference_edge_disagreements.csv,0,2,Differences between direct-loop and running-maximum visibility edges
+results/tables/hvg_sensitivity_sample.csv,600,2,Seeded subset used for deletion sensitivity
+results/tables/hvg_series_length_sensitivity.csv,882,19,Controlled associations under minimum-length scenarios
+results/tables/hydrological_descriptors.csv,1207,39,Hydrological node descriptors and metadata
+results/tables/hydrological_metric_redundancy.csv,8,9,Spearman redundancy matrix of primary hydrological candidates
+results/tables/hydrological_metric_selection.csv,8,5,Outcome-blind hydrological selection decisions
+results/tables/hydrological_nodes.csv,1207,25,"Computational graph nodes, source flags, types and coverage"
+results/tables/lake_balaton_local_indicators.csv,11,34,Lake Balaton parameter-level local indicators and censoring
+results/tables/local_associations_controlled.csv,360,18,Typology/coverage-controlled hydrological-to-local associations
+results/tables/local_associations_unadjusted.csv,360,18,Unadjusted hydrological-to-local rank associations
+results/tables/local_resilience_indicators.csv,8745,34,"Threshold-based local indicators, units and recovery censoring"
+results/tables/metric_dictionary.csv,42,5,"Algorithm, unit and interpretation of exported metrics"
+results/tables/monitoring_site_annual_summaries.csv,102019,12,Consolidated site/parameter/year values and coverage annotations
+results/tables/operational_thresholds.csv,12,4,Supplied type-level operational thresholds and orientation
+results/tables/parameter_effective_sample_sizes.csv,13,10,"Parameter-level observations, series lengths and eligibility"
+results/tables/placebo_annual_states.csv,21608,5,Annual exposure/outcome states for unconnected pseudo-upstream bodies
+results/tables/quality_profile_input_matrix.csv,796,13,Body/parameter physicochemical profiles before imputation and scaling
+results/tables/quality_profile_tsne.csv,796,28,Exploratory t-SNE coordinates joined to body metadata
+results/tables/ranking_scenario_agreement.csv,27,5,"Score, critical-set and top-five scenario agreement"
+results/tables/ranking_sensitivity_scenarios.csv,6796,5,"Body-level scores, ranks and critical states in each scenario"
+results/tables/ranking_year_omission_envelopes.csv,258,6,Body-level single-year-omission rank and critical-status envelopes
+results/tables/recipient_links.csv,1066,2,Directed source-to-recipient identifier pairs
+results/tables/source_parameter_unit_counts.csv,18,3,Input-row counts by source parameter and unit label
+results/tables/source_records_by_year.csv,23,2,Counts of source workbook rows per calendar year
+results/tables/topological_resilience_by_parameter.csv,2701,15,Body/parameter upstream-conditioned compliance and coverage
+results/tables/topological_resilience_by_water_body.csv,99,4,Mean eligible upstream-conditioned indicators per body
+results/tables/topological_resilience_tests.csv,12,27,Parameter-level stratified upstream/placebo odds ratios and uncertainty
+results/tables/typology_parameter_tests.csv,10,8,Non-imputed lake/river parameter comparisons
+results/tables/typology_permanova.csv,4,10,"Profile PERMANOVA, dispersion and grouping tests"
+results/tables/upstream_conditioned_compliance.csv,2701,14,Observed-upstream conditional annual compliance and block intervals
+results/tables/upstream_matched_annual_states.csv,20138,8,Annual connected-upstream exposure/outcome and completeness states
+results/tables/water_body_annual_summaries.csv,79160,43,"Equal-site annual body values, alternative weights and metadata"
+results/tables/water_body_parameter_coverage.csv,11208,14,"Years, gaps, monitoring sites and analysis eligibility per pair"
+results/tables/water_body_ranking.csv,263,15,Complete body ranking with eligibility and critical-status rule

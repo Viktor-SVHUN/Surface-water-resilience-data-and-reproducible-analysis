@@ -1,0 +1,47 @@
+{
+  "release_version": "1.0.0",
+  "source_archive_sha256": "7889b8d6a6096df203d2fbde11472d1eb99bbd4eaf0b4bd51b4ce74f73679a1e",
+  "source_program_sha256": "e007668c435c9d7febe3c91d46364f87ab434be6524804c2206053b2edaa3a07",
+  "release_program_sha256": "f0ce042c2004e11bd24ac00c37b0995ccfd35324616e331f906289a521ed9842",
+  "source_inputs": [
+    {
+      "source_name": "Rivers.csv",
+      "release_path": "data/raw/river_registry.csv",
+      "sha256": "9326d6b836f735658a41cfead459563f52e9f5a0113b4c70a0e371247fbe0ac6"
+    },
+    {
+      "source_name": "Lakes.csv",
+      "release_path": "data/raw/lake_registry.csv",
+      "sha256": "f0408e692354dbccc52c21dd6c676ac93a878a8cdb80dc580c890e4282eb4f3a"
+    },
+    {
+      "source_name": "Water_quality3.xlsx",
+      "release_path": "data/raw/water_quality_annual_site_summaries.xlsx",
+      "sha256": "0447dca4394c9ca99b9731d9c3ecff529fab3183447a23e3efbf4ead475c3c5a"
+    },
+    {
+      "source_name": "limit_values.xlsx",
+      "release_path": "data/raw/operational_thresholds.xlsx",
+      "sha256": "4aa9171f74863925a9f39dbe7c3e6c7c32114b777e31184959abb8be486bfc29"
+    }
+  ],
+  "numerical_comparison": {
+    "reference": "supplied full-configuration result tables",
+    "relative_tolerance": 1e-08,
+    "absolute_tolerance": 1e-10,
+    "tables_compared": 48,
+    "primary_results_passed": true,
+    "secondary_diagnostic_variation_report": "docs/PLATFORM_VARIATION.csv",
+    "exclusions": [
+      "degenerate non-selected HITS diagnostics AUT/HBS",
+      "descriptive schema/prose",
+      "exploratory t-SNE coordinates"
+    ],
+    "secondary_diagnostics_reported_separately": [
+      "Infomap modularity IM_D",
+      "full HVG redundancy/PCA diagnostics",
+      "hydrological redundancy coefficients"
+    ]
+  },
+  "optional_official_status_input_included": false
+}

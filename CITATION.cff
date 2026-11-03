@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this research package, cite this repository using the metadata below."
+type: software
+title: "Surface-water resilience: data and reproducible analysis"
+version: 1.0.0
+date-released: 2026-11-03
+authors:
+  - family-names: "Sebestyén"
+    given-names: "Viktor"
+  - family-names: "Kosztyán"
+    given-names: "Zsolt T."
+  - family-names: "Abonyi"
+    given-names: "János"
+abstract: "Reproducible analysis of annual physicochemical monitoring summaries, local resilience indicators, upstream-conditioned compliance, hydrological network position and horizontal visibility graphs."
+keywords:
+  - water quality
+  - surface water
+  - resilience
+  - river network
+  - horizontal visibility graph
+  - reproducibility
